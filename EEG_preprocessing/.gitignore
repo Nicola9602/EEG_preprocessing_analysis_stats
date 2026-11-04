@@ -1,0 +1,13 @@
+# MATLAB temporary and autosave files
+*.asv
+*.autosave
+*.m~
+
+# EEG data files
+*.set
+*.fdt
+*.edf
+*.bdf
+*.vhdr
+*.vmrk
+*.eeg
