@@ -2,6 +2,9 @@
 
 MATLAB and R pipeline for preprocessing BrainVision EEG recordings and analysing data from an experiment combining Stroop and misinformation-rating tasks. Automated processing is combined with supervised quality control to produce cleaned continuous recordings, event-aligned epochs, group-level time-frequency plots, trial-level theta-power measures, and behavioural/EEG statistical models.
 
+<img width="767" height="1080" alt="image" src="https://github.com/user-attachments/assets/061fd63b-aa56-4528-97a1-e381fd046d00" />
+
+
 The preprocessing scripts should be run before the downstream analyses. A separate README in `01_Functions` documents the project-specific helper functions.
 
 ## Processing workflow
